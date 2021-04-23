@@ -1,0 +1,51 @@
+﻿  segundo parcial.cpp
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\conexion.h(12,3): error C2065: 'onectar': identificador no declarado
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(7,24): error C2504: 'empresa': clase base sin definir
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(10,35): error C2513: 'puesto': no hay ninguna variable declarada antes de '='
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(12,30): error C2065: 'p': identificador no declarado
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(16,3): error C2065: 'conexion': identificador no declarado
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(16,12): error C2146: error de sintaxis: falta ';' delante del identificador 'cn'
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(16,12): error C2065: 'cn': identificador no declarado
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(16,17): error C3861: 'conexion': no se encontró el identificador
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(18,3): error C2065: 'cn': identificador no declarado
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(19,7): error C2065: 'cn': identificador no declarado
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(26,27): error C2065: 'cn': identificador no declarado
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(37,3): error C2065: 'cn': identificador no declarado
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(41,3): error C2065: 'conexion': identificador no declarado
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(41,12): error C2146: error de sintaxis: falta ';' delante del identificador 'cn'
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(41,12): error C2065: 'cn': identificador no declarado
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(41,17): error C3861: 'conexion': no se encontró el identificador
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(44,3): error C2065: 'cn': identificador no declarado
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(46,7): error C2065: 'cn': identificador no declarado
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(50,27): error C2065: 'cn': identificador no declarado
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(52,36): error C2065: 'cn': identificador no declarado
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(64,3): error C2065: 'cn': identificador no declarado
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(69,3): error C2065: 'conexion': identificador no declarado
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(69,12): error C2146: error de sintaxis: falta ';' delante del identificador 'cn'
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(69,12): error C2065: 'cn': identificador no declarado
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(69,17): error C3861: 'conexion': no se encontró el identificador
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(72,3): error C2065: 'cn': identificador no declarado
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(74,7): error C2065: 'cn': identificador no declarado
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(75,20): error C2146: error de sintaxis: falta ';' delante del identificador 'puesto'
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(75,1): warning C4091: '': se ha omitido a la izquierda de 'puesto' cuando no hay ninguna variable declarada
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(79,11): error C2065: 'idpuesto': identificador no declarado
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(80,62): error C2065: 'idpuesto': identificador no declarado
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(82,27): error C2065: 'cn': identificador no declarado
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(86,36): error C2065: 'cn': identificador no declarado
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(95,14): error C2275: 'puesto': uso no válido de este tipo como expresión
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(96,59): error C2275: 'puesto': uso no válido de este tipo como expresión
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(96,91): error C2065: 'idpuesto': identificador no declarado
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(98,30): error C2065: 'cn': identificador no declarado
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(112,3): error C2065: 'cn': identificador no declarado
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(117,3): error C2065: 'conexion': identificador no declarado
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(117,12): error C2146: error de sintaxis: falta ';' delante del identificador 'cn'
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(117,12): error C2065: 'cn': identificador no declarado
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(117,17): error C3861: 'conexion': no se encontró el identificador
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(120,3): error C2065: 'cn': identificador no declarado
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(122,7): error C2065: 'cn': identificador no declarado
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(129,27): error C2065: 'cn': identificador no declarado
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\puesto.h(140,3): error C2065: 'cn': identificador no declarado
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\empleados.h(7,27): error C2504: 'empresa': clase base sin definir
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\empleados.h(12,121): error C3646: 'empresa': especificador de invalidación desconocido
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\empleados.h(12,11): error C2059: error de sintaxis: '('
+C:\Users\Usuaria\Videos\segundo parcial\segundo parcial\empleados.h(12,128): error C2059: error de sintaxis: '('
